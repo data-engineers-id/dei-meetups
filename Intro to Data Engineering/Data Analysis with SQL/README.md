@@ -4,7 +4,7 @@
 To get the overview what we will discuss on this topic, we create a Mindmap that you might check here: [SQL Mindmap](https://www.mindomo.com/mindmap/sql-a037cdee98af462aad9c9210aef0194b)
 
 ## Slides
-[Data Analysis with SQL](https://github.com/data-engineers-id/dei-meetups/Intro%20to%20Data%20Engineering/Data%20Analysis%20with%20SQL/Meetup.pdf)
+[Data Analysis with SQL](https://github.com/data-engineers-id/dei-meetups/blob/master/Intro%20to%20Data%20Engineering/Data%20Analysis%20with%20SQL/Meetup.pdf)
 
 ## SQL Demo
 Our SQL Learning is using data provided by [Mode](https://mode.com/sql-tutorial/) so please kindly check there.
