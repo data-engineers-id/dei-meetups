@@ -11,6 +11,8 @@ Our SQL Learning is using data provided by [Mode](https://mode.com/sql-tutorial/
 And the queries that presented on the meetup is stored in [here](intro-sql.sql) 
 
 ## Viz Demo
-We used [Apache Superset](https://superset.apache.org/) to present the Dashboard - pssst, they are Open Source by the way! You could also contribute to their [repo](https://github.com/apache/superset)
+We used [Apache Superset](https://superset.apache.org/) to present the Dashboard with dataset from [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv)
+
+Psstt Apache Superset is Open Source by the way! You could also contribute to their [repo](https://github.com/apache/superset)
 
 ![dashboard](olist-dashboard.jpg)
